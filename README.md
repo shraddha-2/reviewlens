@@ -6,14 +6,6 @@ Runs **100% locally** with open-source models. No API keys, no data sent to the 
 
 ---
 
-## 🎯 Demo
-
-![ReviewLens Demo](docs/demo.gif)
-
-> Drag a screenshot in → wait ~30 seconds → get a verdict with red/green flags and reasoning.
-
----
-
 ## 📊 Results
 
 Evaluated on a held-out test set of 9 labeled reviews:
