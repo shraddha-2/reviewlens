@@ -5,6 +5,9 @@
 Runs **100% locally** with open-source models. No API keys, no data sent to the cloud.
 
 ---
+## 🎯 How It Works
+
+Drag a screenshot of any product review into the web UI → wait ~30 seconds → get a verdict (Real / Fake / Suspicious) with confidence score, red/green flags, and reasoning grounded in similar labeled reviews.
 
 ## 📊 Results
 
