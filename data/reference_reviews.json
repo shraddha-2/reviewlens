@@ -1,0 +1,107 @@
+[
+  {
+    "id": "real_1",
+    "label": "Real",
+    "review_text": "Bought this iPhone 15 Pro for work travel after my old XS started lagging. Battery comfortably lasts a full day with heavy use including video calls and maps. The titanium frame feels lighter in hand but I noticed the back gets warm during 4K recording. Camera is excellent in daylight, mediocre in low light compared to my colleague's Pixel 8. Worth the upgrade if you're coming from older models, skip if you have a 14 Pro.",
+    "verified_purchase": true,
+    "rating": 4
+  },
+  {
+    "id": "real_2",
+    "label": "Real",
+    "review_text": "Used this blender for 3 months making smoothies and protein shakes daily. Crushes ice well but struggles with frozen fruit chunks unless I add liquid first. The pulse button is finicky — have to press hard. Cleaning is easy if you rinse immediately. Not worth Vitamix money but solid for the price. Replaced my old Nutribullet which leaked after 8 months.",
+    "verified_purchase": true,
+    "rating": 4
+  },
+  {
+    "id": "real_3",
+    "label": "Real",
+    "review_text": "Honestly disappointed. The hinges feel cheap and one already squeaks after 2 weeks. Assembly took 4 hours because the holes weren't aligned on two of the panels. Customer service replaced one panel after I sent photos but I had to pay return shipping. The wood is okay quality once assembled but for the price I expected much better. Would not buy again.",
+    "verified_purchase": true,
+    "rating": 2
+  },
+  {
+    "id": "real_4",
+    "label": "Real",
+    "review_text": "Got these running shoes for marathon training. Logged 200 miles so far. Great cushioning but the heel collar started rubbing after mile 15 — had to use Body Glide. Sizing runs slightly small, ordered half size up which was perfect. Outsole shows minimal wear. Would buy again but in a wide width next time.",
+    "verified_purchase": true,
+    "rating": 4
+  },
+  {
+    "id": "real_5",
+    "label": "Real",
+    "review_text": "I had high hopes for this coffee maker but the temperature control is unreliable. Sometimes brews at 195F as advertised, other times barely hits 180F which leaves coffee tasting weak. Reached out to support, they sent a replacement which has the same issue. The thermal carafe is excellent though, keeps coffee hot for 4+ hours. Mixed feelings.",
+    "verified_purchase": true,
+    "rating": 3
+  },
+  {
+    "id": "fake_1",
+    "label": "Fake",
+    "review_text": "Amazing product! Best quality! Highly recommended to everyone! 5 stars! Loved it!",
+    "verified_purchase": false,
+    "rating": 5
+  },
+  {
+    "id": "fake_2",
+    "label": "Fake",
+    "review_text": "This product is excellent. Great value for money. Premium quality. Fast delivery. Excellent packaging. Highly satisfied. Will buy again. Recommended to all.",
+    "verified_purchase": false,
+    "rating": 5
+  },
+  {
+    "id": "fake_3",
+    "label": "Fake",
+    "review_text": "Best phone ever! Camera is awesome! Battery is great! Display is beautiful! Performance is super fast! No issues at all! Everyone should buy this!",
+    "verified_purchase": false,
+    "rating": 5
+  },
+  {
+    "id": "fake_4",
+    "label": "Fake",
+    "review_text": "Worst product ever do not buy! Total waste of money! Cheap quality! Refund please! Zero stars! Sellers are fraud!",
+    "verified_purchase": false,
+    "rating": 1
+  },
+  {
+    "id": "fake_5",
+    "label": "Fake",
+    "review_text": "Excellent excellent excellent! Top quality top quality! Very nice product very nice! Buy buy buy! 5 star 5 star!",
+    "verified_purchase": false,
+    "rating": 5
+  },
+  {
+    "id": "suspicious_1",
+    "label": "Suspicious",
+    "review_text": "Good product. Works fine. Happy with purchase.",
+    "verified_purchase": true,
+    "rating": 5
+  },
+  {
+    "id": "suspicious_2",
+    "label": "Suspicious",
+    "review_text": "Nice quality and fast delivery. Recommended.",
+    "verified_purchase": false,
+    "rating": 5
+  },
+  {
+    "id": "suspicious_3",
+    "label": "Suspicious",
+    "review_text": "It is okay. Not bad. Could be better.",
+    "verified_purchase": true,
+    "rating": 3
+  },
+  {
+    "id": "suspicious_4",
+    "label": "Suspicious",
+    "review_text": "Decent product for the price point. Some features work as expected. Would consider for the budget category.",
+    "verified_purchase": false,
+    "rating": 4
+  },
+  {
+    "id": "suspicious_5",
+    "label": "Suspicious",
+    "review_text": "Product received in good condition. Working properly. Satisfied overall.",
+    "verified_purchase": true,
+    "rating": 5
+  }
+]

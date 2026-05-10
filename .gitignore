@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+chroma_db/
+scratch/
+
+# But keep evaluation results (small, useful)
+!data/evaluation_results.json
+
+# Cache and downloads
+*.pkl
+*.pt
+*.pth
+huggingface_cache/
+
+# Streamlit
+.streamlit/secrets.toml

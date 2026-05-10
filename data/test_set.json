@@ -1,0 +1,65 @@
+[
+  {
+    "id": "test_real_1",
+    "true_label": "Real",
+    "review_text": "Bought this for my home office setup. The chair has been holding up well for 6 months of 8-hour daily use. Lumbar support is firm — took a week to get used to but my back pain has noticeably improved. The armrests started squeaking after 3 months but a bit of WD-40 fixed it. Assembly took about 45 minutes. Wheels glide smoothly on hardwood but leave faint marks on lighter floors so I added a chair mat. For the price point it beats anything from Office Depot.",
+    "verified_purchase": true,
+    "platform": "Amazon"
+  },
+  {
+    "id": "test_real_2",
+    "true_label": "Real",
+    "review_text": "Disappointed with this air fryer. The basket coating started flaking off after about 4 months of regular use, mostly when I make chicken wings at 400F. The display also stopped responding to the timer button last week. I followed all the cleaning instructions and never used metal utensils. Reached out to support and they offered a 20% refund only. The food it cooks is decent when it works but durability is a real issue. Would not recommend.",
+    "verified_purchase": true,
+    "platform": "Amazon"
+  },
+  {
+    "id": "test_real_3",
+    "true_label": "Real",
+    "review_text": "I switched from a Garmin Forerunner 245 to this watch for half-marathon training. GPS lock is faster, usually within 10 seconds outdoors. Battery life is about 6 days with daily 1-hour workouts and sleep tracking. Heart rate is accurate compared to my Polar chest strap during steady-state runs but lags 5-10 seconds in interval workouts. The screen is bright enough in direct sunlight. Strap was uncomfortable initially, swapped to a third-party silicone one and it's perfect now.",
+    "verified_purchase": true,
+    "platform": "Amazon"
+  },
+  {
+    "id": "test_fake_1",
+    "true_label": "Fake",
+    "review_text": "Best product! Excellent quality! 5 stars! Highly recommend! Amazing!",
+    "verified_purchase": false,
+    "platform": "Amazon"
+  },
+  {
+    "id": "test_fake_2",
+    "true_label": "Fake",
+    "review_text": "Awesome product. Super quality. Great delivery. Best price. Top brand. Must buy. Recommended.",
+    "verified_purchase": false,
+    "platform": "Flipkart"
+  },
+  {
+    "id": "test_fake_3",
+    "true_label": "Fake",
+    "review_text": "Worst worst worst! Don't buy this! Total scam! Fake product! Waste of money! Refund refund refund!",
+    "verified_purchase": false,
+    "platform": "Amazon"
+  },
+  {
+    "id": "test_suspicious_1",
+    "true_label": "Suspicious",
+    "review_text": "Nice product. Good quality. Happy with this.",
+    "verified_purchase": true,
+    "platform": "Amazon"
+  },
+  {
+    "id": "test_suspicious_2",
+    "true_label": "Suspicious",
+    "review_text": "It is fine. Works as described. Acceptable.",
+    "verified_purchase": false,
+    "platform": "Flipkart"
+  },
+  {
+    "id": "test_suspicious_3",
+    "true_label": "Suspicious",
+    "review_text": "Decent enough for the price. Some pros and cons. Okay overall.",
+    "verified_purchase": true,
+    "platform": "Amazon"
+  }
+]
